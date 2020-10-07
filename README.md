@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+THis project is set up with pre configration for react ,react-router ,redux,redux tunk
 
 ## Available Scripts
 
